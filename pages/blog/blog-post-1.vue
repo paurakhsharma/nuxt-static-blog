@@ -1,5 +1,26 @@
-<template>
-  <div>
-    Blog post 1
-  </div>
+<template lang="md">
+  # Hello world
+
+  # H1
+  ## H2
+  ### H3
+  #### H4
+  ##### H5
+  ###### H6
+
+  Alternatively, for H1 and H2, an underline-ish style:
+
+  Alt-H1
+  ======
+
+  Alt-H2
+  ------
+
+  Current route is: {{$route.path}}
 </template>
+
+<script>
+export default {
+  layout: 'blog'
+}
+</script>
