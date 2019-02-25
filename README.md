@@ -1,6 +1,6 @@
 # nuxt-static-blog
 
-> Simple static nuxt blog
+Simple static nuxt blog
 
 ## Build Setup
 
