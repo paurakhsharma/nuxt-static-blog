@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div data-cy="blog-list">
     <ul>
       <li><nuxt-link to="/blog/blog-post-1">Blog Post 1</nuxt-link></li>
       <li><nuxt-link to="/blog/blog-post-2">Blog Post 2</nuxt-link></li>

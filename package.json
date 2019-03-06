@@ -5,6 +5,7 @@
   "author": "PaurakhSharma",
   "private": true,
   "scripts": {
+    "cypress:open": "cypress open",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
@@ -17,6 +18,8 @@
   },
   "devDependencies": {
     "autoprefixer": "^8.6.4",
+    "cypress": "^3.1.5",
+    "cypress-cucumber-preprocessor": "^1.11.0",
     "nodemon": "^1.18.9",
     "tailwindcss": "^0.7.0"
   }
