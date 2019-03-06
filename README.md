@@ -35,3 +35,6 @@ yarn cypress:open
 4) Click on the test you want to run
 
 And see the magic happen 🤓
+
+
+![cypress test run](assets/cypress.gif)
