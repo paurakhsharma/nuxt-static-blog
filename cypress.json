@@ -1,4 +1,5 @@
 {
+  "projectId": "riw8ed",
   "baseUrl": "http://localhost:3000",
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/support/step_definitions/"
